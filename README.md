@@ -1,0 +1,2 @@
+# EEE4113F-Design-Project-Code
+This repository contains code for the EEE4113F design project. The barcode scanner file is a python code that opens the user’s camera, detects and decodes the barcode found in the camera, and prints out the corresponding barcode numbers. Note, the code is written for a windows device, to use on a Mac OS, line 4 must be changed to “brew install zbar”. The code is adapted from https://towardsdatascience.com/building-a-barcode-qr-code-reader-using-python-360e22dfb6e5
